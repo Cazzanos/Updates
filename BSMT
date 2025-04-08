@@ -19,9 +19,9 @@
       "- full bright",
       "• Player",
       "- noclip"
+      "• Auto Bandage",
+      "- use bandage at... health", 
       "• Auto",
-      "- auto bandage",
-      "use bandage at... health", 
       "- auto pickup",
       "- auto pickup ammo",
       "- auto bond",
