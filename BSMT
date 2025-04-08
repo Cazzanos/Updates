@@ -1,0 +1,29 @@
+[
+  {
+    "game": "Lip Simulator",
+    "date": "2025-04-03",
+    "details": [
+      "Added new bypass for anti-cheat v2.3",
+      "UI now supports dark mode",
+      "Memory scan patch improved for stability"
+    ]
+  },
+  {
+    "game": "Backroom Battleground",
+    "date": "2025-03-29",
+    "details": [
+      "Hook system revamped",
+      "FPS improved by 40%",
+      "Added auto-bind system for easier key detection"
+    ]
+  },
+  {
+    "game": "Rainbow Injector",
+    "date": "2025-03-21",
+    "details": [
+      "New DLL injection flow integrated",
+      "Improved cloaking from kernel detection",
+      "Now supports more device variations"
+    ]
+  }
+]
