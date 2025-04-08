@@ -3,7 +3,10 @@
     "game": "Dead Rails",
     "date": "2025-04-03",
     "details": [
-      "added support"
+      "• Aimbot",
+      "- wall check",
+      "- aim only with a equiped gun",
+      "- max distance (default 140)"
     ]
   }
 ]
