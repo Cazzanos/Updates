@@ -1,12 +1,15 @@
 [
   {
     "game": "Dead Rails",
-    "date": "2025-04-03",
+    "date": "2025-04-08",
     "details": [
       "• Aimbot",
       "- wall check",
       "- aim only with a equiped gun",
       "- max distance (default 140)"
+      "• ESP",
+      "- zombie esp",
+      "- distance"
     ]
   }
 ]
