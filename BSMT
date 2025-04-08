@@ -1,11 +1,9 @@
 [
   {
-    "game": "Lip Simulator",
+    "game": "Dead Rails",
     "date": "2025-04-03",
     "details": [
-      "Added new bypass for anti-cheat v2.3",
-      "UI now supports dark mode",
-      "Memory scan patch improved for stability"
+      "added support"
     ]
   }
 ]
