@@ -3,6 +3,17 @@
     "game": "Dead Rails",
     "date": "2025-04-08",
     "details": [
+      "• Less Laggy",
+      "• Aimbot",
+      "- fov",
+      "- fov size"
+    ]
+   },
+
+  {
+    "game": "Dead Rails",
+    "date": "2025-04-08",
+    "details": [
       "• Aimbot",
       "- wall check",
       "- aim only with a equiped gun",
@@ -31,15 +42,5 @@
       "- store only valueable",
       "- min value"
     ]
-  },
-  {
-    "game": "Dead Rails",
-    "date": "2025-04-08",
-    "details": [
-      "• Less Laggy",
-      "• Aimbot",
-      "- fov",
-      "- fov size"
-    ]
-   }
+  }
 ]
