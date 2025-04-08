@@ -19,6 +19,16 @@
       "- full bright",
       "• Player",
       "- noclip"
+      "• Auto",
+      "- auto bandage",
+      "use bandage at... health", 
+      "- auto pickup",
+      "- auto pickup ammo",
+      "- auto bond",
+      "- auto money bags",
+      "• Auto Store", 
+      "- store only valueable",
+      "- min value"
     ]
   }
 ]
