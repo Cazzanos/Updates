@@ -8,9 +8,9 @@
       "• teleport to train",
       "- teleport to end",
       "- teleport to end loop",
-      "- kill aura (doesent require a gun)",
+      "• kill aura (doesn't require a gun)",
       "- kill aura distance"
-   ]
+    ]
   },
   {
     "game": "Dead Rails",
@@ -25,7 +25,7 @@
       "- time",
       "• freecam"
     ]
-   },
+  },
   {
     "game": "Dead Rails",
     "date": "2025-04-08",
@@ -35,15 +35,14 @@
       "- fov",
       "- fov size"
     ]
-   },
-
+  },
   {
     "game": "Dead Rails",
     "date": "2025-04-08",
     "details": [
       "• Aimbot",
       "- wall check",
-      "- aim only with a equiped gun",
+      "- aim only with a equipped gun",
       "- max distance (default 140)",
       "• ESP",
       "- zombie esp",
@@ -52,20 +51,20 @@
       "• Item Esp",
       "- name",
       "- distance",
-      "- value", 
+      "- value",
       "- ignore nonvaluable",
       "• Misc",
       "- full bright",
       "• Player",
       "- noclip",
       "• Auto Bandage",
-      "- use bandage at... health", 
+      "- use bandage at... health",
       "• Auto",
       "- auto pickup",
       "- auto pickup ammo",
       "- auto bond",
       "- auto money bags",
-      "• Auto Store", 
+      "• Auto Store",
       "- store only valueable",
       "- min value"
     ]
