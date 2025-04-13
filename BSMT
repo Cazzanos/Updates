@@ -1,6 +1,15 @@
 [
   {
     "game": "Dead Rails",
+    "date": "2025-04-13",
+    "details": [
+      "• lagless aimbot",
+      "• freecam",
+      "• teleport to train"
+   ]
+  },
+  {
+    "game": "Dead Rails",
     "date": "2025-04-09",
     "details": [
       "• aimbot fov fixed",
