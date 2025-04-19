@@ -1,6 +1,19 @@
 [
   {
     "game": "Dead Rails",
+    "date": "2025-04-19",
+    "details": [
+      "• removed kill aura",
+      "• anti zombie",
+      "- distance",
+      "• gunkill aura", 
+      "- ignore horses",
+      "- distance",
+      "• silent aim (laggy)"
+    ]
+  },
+  {
+    "game": "Dead Rails",
     "date": "2025-04-13",
     "details": [
       "• lagless aimbot",
